@@ -1,0 +1,28 @@
+USERTOKEN=""
+BOTTOKEN=""
+OWNERID=0
+
+MasterRole='0' # General role given to all team members
+RoleIDList=['11', '22']
+RoleNameList=['oneone', 'twotwo']
+#            playing    streaming      listening     watching           custom status           competing
+Activities=['playing', 'streaming', 'listening on', 'watching', 'doing something special in', 'competing in']
+
+BotChannel=0 # Channel to post messages in from bot
+
+teampath="./team.txt" # Output of $team is saved to this file
+resultlink="none" # Link to this file, e.g. https://example.com/team.txt
+
+Heartbeat=10 # Pulse speed
+
+logpath="./amaryllis.log" # Log name and location
+
+
+# JANWATCH
+Auto=False # Sets janwatch to auto - The bot will automatically find roles which have moderation powers, but as a tradeoff boot times can take a lot longer.		
+Guild='0'
+Altdentifier='372022813839851520'
+Watchrole='<@&ID>' # Role to ping whenever a new team member shows up or altdentifier changed status
+ModRoles=['0', '1'] # Required if Auto is set to true
+
+
