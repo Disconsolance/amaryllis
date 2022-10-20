@@ -1,3 +1,5 @@
+# This repo will not be maintained
+
 "P.S. Just to clear up a few misconceptions: I am a former and I stan panzer. I'm not communist. loyal tno fan, if we're still doing team LARP, I guess. Sorry to disappoint, but I do in fact support the flaming of idlers (they have been very naughty), and I think that increasing scope a bad thing. The ST team is committing stalling. Remember that every time you hasten to their defence. Sniping is a legitimate action. Please remember that having idea guys is a bad thing, and that the pw team was not, in fact, roaring back to life. I'm not a communist, an anti-zionist, a fascist, a meanie, etc, etc, etc... whatever else people accuse me of being these days. All team members have the right to life, liberty, and the pursuit of happiness."<br><br>
 Deprecated and replaced by a fully async, more cleanly written tracker/C2 bot that can do graphs as of 06/06/2022.<br><br>
 
